@@ -1,0 +1,18 @@
+facial-attendance-system/
+├── README.md
+├── main.py
+├── encoder.py
+├── database.py
+├── requirements.txt
+├── .gitignore
+├── serviceAccountKey.json (DO NOT upload this to GitHub)
+├── Resources/
+│   ├── background.png
+│   └── Modes/
+│       ├── mode1.png
+│       ├── mode2.png
+│       └── mode3.png
+├── Images/
+│   ├── student1.png
+│   ├── student2.png
+│   └── ...
