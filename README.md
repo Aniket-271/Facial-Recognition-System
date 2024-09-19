@@ -50,4 +50,5 @@ The Facial Attendance System is designed to simplify and automate the process of
 ![2](https://github.com/user-attachments/assets/14d23dcc-7754-4d53-a2b8-5e0bb1c4cb0b)
 ![3](https://github.com/user-attachments/assets/3ca5eaa1-5646-4127-a112-cee711dc5fe4)
 ![4](https://github.com/user-attachments/assets/9de81ef9-2f6b-4a11-8db4-3b5d6d765dfe)
+![5](https://github.com/user-attachments/assets/3789670a-89d8-4a10-ac56-66d2e7106a29)
 
